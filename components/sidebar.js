@@ -237,12 +237,12 @@ class SideMenu extends HTMLElement {
         <!-- USER -->
         <div class="user">
           <div class="name">
-            <span class="alphabet">A</span>
+            <span class="alphabet">O</span>
           </div>
 
           <div class="user-info">
-            <div class="user-name">Animbom Odette</div>
-            <div class="user-email">animbomodette@yahoo.com</div>
+            <div class="user-name">Olorioluwa</div>
+            <div class="user-email">Karenekeji@outlook.com</div>
           </div>
         </div>
 
