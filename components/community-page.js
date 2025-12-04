@@ -231,7 +231,7 @@ textarea:focus {
     <div class="new-post">
       <div class="alpha-text">
         <div class="input-row">
-          <div class="alphabet">AO</div>
+          <div class="alphabet">O</div>
           <textarea id="input" placeholder="Share an update, ask for help, or celebrate a win..."></textarea>
         </div>
         <div class="poster">
