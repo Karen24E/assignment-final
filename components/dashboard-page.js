@@ -41,7 +41,7 @@ class DashboardPage extends HTMLElement {
 
       <div class="page-container">
 
-        <div class="greeting">Good evening, Animbom Odette!</div>
+        <div class="greeting">Good evening, Olorioluwa!</div>
         <div class="subtext">Here’s what’s happening with your productivity today</div>
 
         <!-- FIRST GRID -->
